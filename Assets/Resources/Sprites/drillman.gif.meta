@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 26f6a9b67b7b92e4e84eb715845318a6
+timeCreated: 1446675992
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drillman_0
+    21300002: drillman_1
+    21300004: drillman_2
+    21300006: drillman_3
+    21300008: drillman_4
+    21300010: drillman_5
+    21300012: drillman_6
+    21300014: drillman_7
+    21300016: drillman_8
+    21300018: drillman_9
+    21300020: drillman_10
+    21300022: drillman_11
+    21300024: drillman_12
+    21300026: drillman_13
+    21300028: drillman_14
+    21300030: drillman_15
+    21300032: drillman_16
+    21300034: drillman_17
+    21300036: drillman_18
+    21300038: drillman_19
+    21300040: drillman_20
+    21300042: drillman_21
+    21300044: drillman_22
+    21300046: drillman_23
+    21300048: drillman_24
+    21300050: drillman_25
+    21300052: drillman_26
+    21300054: drillman_27
+    21300056: drillman_28
+    21300058: drillman_29
+    21300060: drillman_30
+    21300062: drillman_31
+    21300064: drillman_32
+    21300066: drillman_33
+    21300068: drillman_34
+    21300070: drillman_35
+    21300072: drillman_36
+    21300074: drillman_37
+    21300076: drillman_38
+    21300078: drillman_39
+    21300080: drillman_40
+    21300082: drillman_41
+    21300084: drillman_42
+    21300086: drillman_43
+    21300088: drillman_44
+    21300090: drillman_45
+    21300092: drillman_46
+    21300094: drillman_47
+    21300096: drillman_48
+    21300098: drillman_49
+    21300100: drillman_50
+    21300102: drillman_51
+    21300104: drillman_52
+    21300106: drillman_53
+    21300108: drillman_54
+    21300110: drillman_55
+    21300112: drillman_56
+    21300114: drillman_57
+    21300116: drillman_58
+    21300118: drillman_59
+    21300120: drillman_60
+    21300122: drillman_61
+    21300124: drillman_62
+    21300126: drillman_63
+    21300128: drillman_64
+    21300130: drillman_65
+    21300132: drillman_66
+    21300134: drillman_67
+    21300136: drillman_68
+    21300138: drillman_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: drillman_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 383
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 393
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 392
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 394
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 383
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 383
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 383
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 347
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 346
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 345
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 347
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 346
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 345
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 276
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 276
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 272
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 272
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 276
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 272
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 274
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 274
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 183
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 183
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 184
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 184
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 184
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 184
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 183
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 199
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 184
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 185
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 127
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 164
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 166
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 122
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 122
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 132
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 135
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 140
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 121
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 62
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 62
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 107
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_66
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 62
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_67
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 62
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_68
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 62
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drillman_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 043fadf632ba65240a2ad41846059772
+timeCreated: 1447688962
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion_600x600_1
+    21300002: explosion_600x600_2
+    21300004: explosion_600x600_3
+    21300006: explosion_600x600_4
+    21300008: explosion_600x600_7
+    21300010: explosion_600x600_9
+    21300012: explosion_600x600_15
+    21300014: explosion_600x600_17
+    21300016: explosion_600x600_20
+    21300018: explosion_600x600_21
+    21300020: explosion_600x600_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosion_600x600_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 147
+        width: 328
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_2
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 83
+        width: 441
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_3
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 88
+        width: 447
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_4
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 64
+        width: 498
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_7
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 437
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 173
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_15
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 356
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_17
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 351
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_20
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 60
+        width: 508
+        height: 479
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_21
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 227
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_600x600_22
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 90
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
